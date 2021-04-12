@@ -32,12 +32,10 @@
 }
 .react-date-picker__inputGroup__input {
   min-width: 0.54em;
-  height: 100%;
   position: relative;
   padding: 0 1px;
   border: 0;
   background: none;
-  font: inherit;
   box-sizing: content-box;
   -moz-appearance: textfield;
 }
